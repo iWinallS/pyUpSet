@@ -1,0 +1,16 @@
+{
+	"file": "output.csv",
+	"name": "Test Output",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "GName" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 1223 }
+	],
+    "author": "wstest",
+    "description": "wstest",
+    "source": "test"
+}
