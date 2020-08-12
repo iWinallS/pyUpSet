@@ -1,5 +1,5 @@
 {
-	"file": "output.csv",
+	"file": "https://raw.githubusercontent.com/iWinallS/pyUpSet/master/output.csv",
 	"name": "Test Output",
 	"header": 0,
 	"separator": ",",
