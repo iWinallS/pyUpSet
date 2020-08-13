@@ -1,16 +1,16 @@
 {
-	"file": "https://raw.githubusercontent.com/iWinallS/pyUpSet/master/output.csv",
+	"file": "https://raw.githubusercontent.com/iWinallS/pyUpSet/master/output_matrix.csv",
 	"name": "Test Output",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "GName" }
+		{ "type": "id", "index": 0, "name": "category" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 1223 }
 	],
-    "author": "wstest",
-    "description": "wstest",
+    "author": "test",
+    "description": "test",
     "source": "test"
 }
